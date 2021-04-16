@@ -1,5 +1,6 @@
-def divisors(a):
-    pass
+def divisors():
+    number = int(input("Enter a number to get the divisors for: "))
+    print(number)
 
 
-divisors(10)
+divisors()
