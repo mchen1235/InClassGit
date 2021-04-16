@@ -1,0 +1,4 @@
+def password():
+	pass
+
+password()
